@@ -19,6 +19,6 @@ phases:
     commands:
       - echo Entered the post_build phase...
       - echo Build completed on `date`
- artifacts:
-   files:
-     - /helloworld.html
+artifacts:
+  files:
+    - CODEBUILD_SRC_DIR/helloworld.html
