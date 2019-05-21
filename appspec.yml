@@ -2,5 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: /helloworld.html
-    destination: /var/www/html/helloworld.html
+    destination: /var/www/html
 # Optional properties
