@@ -3,3 +3,4 @@ os: Linux
 files:
   - source: /helloworld.html
     destination: /var/www/html
+# Optional properties
