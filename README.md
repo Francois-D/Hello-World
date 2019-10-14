@@ -6,3 +6,4 @@ This exercise demonstrates end to end release management and infrastructure know
 4. The infrastructure needs to use Cloud Formation to provision the server(s) to host and display the html page. No restriction on OS other than the HTML page needs to be accessible via HTTP. Bonus - the page is accessible via https
 
  
+Test branches
